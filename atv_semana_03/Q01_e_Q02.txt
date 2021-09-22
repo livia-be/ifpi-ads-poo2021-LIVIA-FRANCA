@@ -1,0 +1,9 @@
+1)
+a) Não compila, erro de tipo, tentando colocar String onde deve ser Number.
+b) Compila, b: any pode assumir qualquer valor. 
+c) Compila, a variável c se mantém um Number.
+
+2)
+a) 3
+b) 12
+c) NaN
