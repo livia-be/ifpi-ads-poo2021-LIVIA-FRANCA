@@ -1,0 +1,22 @@
+1. Assinale verdadeiro ou falso:
+a. (falso) Objetos são modelos para classes;
+
+b. (verdadeiro ) Atributos de uma classe devem ser obrigatoriamente inicializados para
+que as classes compilem;
+
+c. (verdadeiro ) Uma classe de cadastro é responsável por manter o controle de outras
+classes mais simples, que chamamos de classes básicas;
+
+d. (verdadeiro ) Uma variável declarada dentro de um método deve ser inicializada para
+que a classe seja compilável;
+
+e. (falso) Uma variável que seja uma classe declarada em um método é
+automaticamente inicializada com null;
+
+f. (verdadeiro ) Construtores são rotinas especiais que servem para inicializar e
+configurar os objetos no momento da instanciação;
+
+g. ( verdadeiro) Construtores não possuem tipo de retorno e podem ou não ter
+parâmetros;
+
+h. ( verdadeiro) Uma classe pode ter várias instâncias;
